@@ -1,0 +1,25 @@
+Date,Start,End,Hours,Client,Task,Note,Rate,Amount
+2026-09-17,09:00,15:30,6.50,4 Stanley Street,Inside extension,,,0.00
+2026-09-18,07:30,16:30,9.00,4 Stanley Street,Phase two,,,0.00
+2026-09-19,08:00,13:00,5.00,4 Stanley Street,Phase two,,,0.00
+2026-09-21,08:00,15:00,7.00,4 Stanley Street,Inside phase 2,,,0.00
+2026-09-23,08:00,16:00,8.00,4 Stanley Street,Outside extension,2 hrs inside phase 2 | 6 hrs outside extension,,0.00
+2026-09-24,08:00,11:00,3.00,4 Stanley Street,Outside phase 2,,,0.00
+2026-09-25,08:00,16:00,8.00,4 Stanley Street,Outside phase 2,,,0.00
+2026-09-26,09:00,15:30,6.50,4 Stanley Street,Outside phase 2,,,0.00
+2026-09-29,08:00,16:00,8.00,4 Stanley Street,Outside phase 2,,,0.00
+2026-09-30,08:00,16:00,8.00,4 Stanley Street,Outside phase 2,4 hrs outside phase 2 | 4 hrs outside extension,,0.00
+2026-10-01,08:00,16:00,8.00,4 Stanley Street,Outside phase 2,6 hrs outside phase 2 | 2 hrs outside extension,,0.00
+2026-10-02,08:00,15:00,7.00,4 Stanley Street,Outside phase 2,4 hrs outside phase 2 | 3 hrs outside extension,,0.00
+2026-10-06,08:00,16:00,8.00,4 Stanley Street,Outside phase two,5 hrs outside phase two | 3 hrs inside extension,,0.00
+2026-10-07,08:00,15:00,7.00,4 Stanley Street,Inside extension,,,0.00
+2026-10-08,08:00,16:00,8.00,4 Stanley Street,Inside extension,,,0.00
+2026-10-09,08:00,16:30,8.50,4 Stanley Street,Inside extension,5 hrs inside extension | 3.5 hrs outside extension,,0.00
+2026-10-10,09:30,13:00,3.50,4 Stanley Street,Inside phase two,,,0.00
+2026-10-10,13:00,16:30,3.50,"25 Hinau Street, Woburn",Inside,,,0.00
+2026-10-12,08:00,17:00,9.00,4 Stanley Street,Inside phase two,4 hrs doors,,0.00
+2026-10-13,08:00,16:30,8.50,4 Stanley Street,Inside phase two,4 hrs doors,,0.00
+2026-10-14,08:00,15:30,7.50,4 Stanley Street,Inside phase two,3.5 hrs doors,,0.00
+2026-10-15,08:00,16:00,8.00,4 Stanley Street,Inside phase two,4 hrs doors,,0.00
+2026-10-16,08:00,16:00,8.00,4 Stanley Street,Inside phase two,3 hrs doors,,0.00
+Total,,,163.50,,,,,0.00
